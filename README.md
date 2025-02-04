@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there! I’m Dmitrii Protsenko  
+- 💻 Proactive Developer & Tech Enthusiast
+- ⚡ Passionate about technologies, coding, security, and innovations
 
-<!--
-**NordCoderd/NordCoderd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects  
 
-Here are some ideas to get you started:
+### 🔐 [Infrastructure Security Linter](https://github.com/NordCoderd/infrastructure-security)
+Security Linter for JetBrains IDEs (e.g., IntelliJ IDEA, PyCharm, WebStorm, and more).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✔️ **Scan Docker & Infrastructure as Code (IaC) files** for security vulnerabilities & misconfigurations
+- ✔️ **Seamless integration** directly within JetBrains IDEs
+- ✔️ **Boost security practices** for DevOps & developers
+
+## 📫 Get in Touch
+- 📲 **Telegram**: [nordcoderd](https://t.me/nordcoderd)
+- 📝 **Blog**: [protsenko.dev](https://protsenko.dev)
+- 📩 **Email**: [tech@protsenko.dev](mailto:tech@protsenko.dev)
