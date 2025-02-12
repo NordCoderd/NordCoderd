@@ -1,4 +1,4 @@
-## 👋 Hi there! I’m Dmitrii Protsenko  
+## 👋 Hi there! I’m Dmitry Protsenko  
 - 💻 Proactive Developer & Tech Enthusiast
 - ⚡ Passionate about technologies, coding, security, and innovations
 
