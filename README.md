@@ -4,7 +4,7 @@
 
 ## 📌 Featured Projects  
 
-### 🔐 [Infrastructure Security Linter](https://github.com/NordCoderd/infrastructure-security)
+### 🔐 [Infrastructure as code Security Linter](https://github.com/NordCoderd/infrastructure-security)
 Security Linter for JetBrains IDEs (e.g., IntelliJ IDEA, PyCharm, WebStorm, and more).
 
 - ✔️ **Scan Docker & Infrastructure as Code (IaC) files** for security vulnerabilities & misconfigurations
