@@ -1,17 +1,25 @@
-## 👋 Hi there! I’m Dmitry Protsenko  
-- 💻 Proactive Developer & Tech Enthusiast
-- ⚡ Passionate about technologies, coding, security, and innovations
+## 👋 Hi there! I’m Dmitry Protsenko
 
-## 📌 Featured Projects  
+- 💻 Software Engineer & Cybersecurity Enthusiast
+- ⚡️ Passionate about technology, programming & security
 
-### 🔐 [Infrastructure as code Security Linter](https://github.com/NordCoderd/infrastructure-security)
-Security Linter for JetBrains IDEs (e.g., IntelliJ IDEA, PyCharm, WebStorm, and more).
+## 📌 Featured Projects
 
-- ✔️ **Scan Docker & Infrastructure as Code (IaC) files** for security vulnerabilities & misconfigurations
-- ✔️ **Seamless integration** directly within JetBrains IDEs
-- ✔️ **Boost security practices** for DevOps & developers
+### 🛡️ [Cloud Security Plugin for JetBrains IDEs](https://github.com/NordCoderd/infrastructure-security)
+Security linter for IntelliJ IDEA, PyCharm, WebStorm & more.
+
+- 🔍 **Scan Docker & Kubernetes files** for vulnerabilities and misconfigurations
+- 🪄 **Seamless integration** straight inside your JetBrains IDE
+- 🚀 **Boost security practices** for DevOps & developers
+
+### 🤖 [DevSecOps & AI](https://devsecopsai.today/)  
+Medium publication exploring the intersection of DevSecOps and artificial intelligence.
+
+### ✍️ [protsenko.dev](https://protsenko.dev)
+Personal blog covering software, security, and everything in between.
 
 ## 📫 Get in Touch
-- 📲 **Telegram**: [nordcoderd](https://t.me/nordcoderd)
-- 📝 **Blog**: [protsenko.dev](https://protsenko.dev)
-- 📩 **Email**: [tech@protsenko.dev](mailto:tech@protsenko.dev)
+
+- 💼 **LinkedIn**: [protsenkodev](https://www.linkedin.com/in/protsenkodev/)  
+- 💬 **Telegram**: [nordcoderd](https://t.me/nordcoderd)  
+- ✉️ **Email**: [tech@protsenko.dev](mailto:tech@protsenko.dev)
